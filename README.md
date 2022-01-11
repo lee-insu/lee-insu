@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=To%20the%20moonnn!&fontSize=90&fontColor=8E6CF7)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%236DAEFF&title_bg=%232C13EE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamda&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,5 +33,3 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamda&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
