@@ -1,7 +1,7 @@
 
 Hi there! I'm a <strong>product manager</strong> and I'm solving problems in the world 😎 <br/> 
 
-This github log is my record of developing to solve the problem.<br/>
+This github log is my record of developing to solve the problem 🏃 <br/>
 I started developing to implement the project I imagined 🔧<br/>
 Even if the beginning is insignificant, the end goes to the moonnnn!! 🚀
 
