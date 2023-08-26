@@ -8,12 +8,10 @@ Even if the beginning is insignificant, the end goes to the moonnnn!! 🚀
   
   ### Skills 🏋🏻
   <strong> Languages & Library </strong>
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=appveyor&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=appveyor&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=appveyor&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=appveyor&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=appveyor&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=appveyor&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=appveyor&logo=vuedotjs&logoColor=%234FC08D)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=appveyor&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=appveyor&logo=jquery&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=appveyor&logo=python&logoColor=ffdd54)
