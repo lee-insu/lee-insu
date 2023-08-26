@@ -7,7 +7,7 @@ Even if the beginning is insignificant, the end goes to the moonnnn!! 🚀
 
   
   ### Skills 🏋🏻
-  <strong> Languages & Library </strong>
+<strong> Languages & Library </strong> <br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=appveyor&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=appveyor&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=appveyor&logo=javascript&logoColor=%23F7DF1E)
